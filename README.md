@@ -10,11 +10,11 @@ An engine was used to connect to the sqlite database, and automap_base() was use
 
 The last 12 months of precipitation data from measurements:
 
-<img src="images/precipitation.png" width="600">
+<img src="images/precipitation.png" width="500">
 
 The station with the highest number of temperature observations was selected. The last 12 months of temperature observation data for this station were visualized in a histogram: 
 
-<img src="images/tobs.png" width="600">
+<img src="images/tobs.png" width="500">
 
 A function called `calc_temps` was created to return the minimum, average, and maximum temperatures for a chosen range of dates. The results were graphed in a bar graph to visualize the trip average temperature: 
 
@@ -22,4 +22,4 @@ A function called `calc_temps` was created to return the minimum, average, and m
  
 A function called `daily_normals` was created to return the averages for minimum, maximum, and average temperatures for all historic data matching a specific month and day. These values were calculated for all days of the chosen range of dates and results were graphed in an area plot:
 
-<img src="images/dailyNormals.png" width="600">
+<img src="images/dailyNormals.png" width="500">
