@@ -10,17 +10,19 @@ An engine was used to connect to the sqlite database, and automap_base() was use
 
 - The last 12 months of precipitation data from measurements:
 
-![Image description](images/TumorResponse.png)
+![Image description](images/precipitation.png)
 
 - The station with the highest number of temperature observations was selected. The last 12 months of temperature observation data for this station were visualized: 
 
-![Image description](images/TumorResponse.png)
+![Image description](images/tobs.png)
 
 A function called `calc_temps` was created to return the minimum, average, and maximum temperatures for a chosen range of dates. The results were graphed in a bar graph to visualize the trip average temperature: 
 
-![Image description](images/TumorResponse.png)
+![Image description](images/avgTemp.png)
  
 
 Rainfall?
 
-A function called `daily_normals` was created to return the averages for tmin, tmax, and tavg for all historic data matching a specific month and day. These values were calculated for all days of the chosen range of dates and results were graphed in an area plot. 
+A function called `daily_normals` was created to return the averages for tmin, tmax, and tavg for all historic data matching a specific month and day. These values were calculated for all days of the chosen range of dates and results were graphed in an area plot.
+
+![Image description](images/dailyNormals.png) 
