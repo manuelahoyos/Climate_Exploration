@@ -18,7 +18,7 @@ The station with the highest number of temperature observations was selected. Th
 
 A function called `calc_temps` was created to return the minimum, average, and maximum temperatures for a chosen range of dates. The results were graphed in a bar graph to visualize the trip average temperature: 
 
-<img src="images/avgTemp.png" width="400">
+<img src="images/avgTemp.png" width="300">
  
 A function called `daily_normals` was created to return the averages for minimum, maximum, and average temperatures for all historic data matching a specific month and day. These values were calculated for all days of the chosen range of dates and results were graphed in an area plot:
 
