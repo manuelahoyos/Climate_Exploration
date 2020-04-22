@@ -2,7 +2,7 @@
 
 ## Overview: 
 
-SQLAlchemy and a Flask API were used to pull climate data from the hawaii.sqlite weather station tables. Exploration and analysis of the climate data was done using Python, Pandas, API, SQL, SQLAlchemy and OMR. Specific dates were chosen for the analysis, and Matplotlib was used to graph the results. 
+SQLAlchemy and a Flask API were used to pull climate data from the hawaii.sqlite weather station tables. Exploration and analysis of the climate data was done using Python, Pandas, API, SQL, SQLAlchemy and Object Relational Mapper (OMR). Specific dates were chosen for the analysis, and Matplotlib was used to graph the results. 
 
 ## Workflow:
 
