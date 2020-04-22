@@ -10,7 +10,7 @@ An engine was used to connect to the sqlite database, and automap_base() was use
 
 The last 12 months of precipitation data from measurements:
 
-<img src="images/precipitation.png" width="100">
+<img src="images/precipitation.png" width="500">
 
 
 The station with the highest number of temperature observations was selected. The last 12 months of temperature observation data for this station were visualized in a histogram: 
