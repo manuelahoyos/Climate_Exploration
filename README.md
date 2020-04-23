@@ -1,4 +1,4 @@
-# SQLAlchemy Challenge
+# Climate Exploration
 
 ## Overview: 
 
